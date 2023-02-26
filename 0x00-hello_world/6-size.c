@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * main - Programe that print exact sizes as displayed
- * Return: 0 (Success)
- */
+ * main - print out sizes of data types in C
+ * code by bwave ict
+ * Return: 0
+ */ 
 int main(void)
 {
 	char a;
